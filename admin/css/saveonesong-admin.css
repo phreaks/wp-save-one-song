@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#app .box {
+    padding:20px;
+    margin-bottom:30px;
+}
+#app .box .text-large {
+    width:450px;
+}
+ .wrap label span {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 3px;
+}
+
+#loading-indicator {
+    height: 16px;
+    width: 16px;
+}
