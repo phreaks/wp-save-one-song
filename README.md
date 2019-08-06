@@ -88,7 +88,7 @@ Install app on your phone and create a 'Kurzbefehl'. Now add the following actio
 
 2. Add action 'Inhalte von URL abrufen'. Choose 'get' as methode
 
-3. Add a Sire phrease of your choice.
+3. Add a Sire phrase of your choice.
 
 4. Done.
 
