@@ -1,6 +1,6 @@
 # SaveOneSong WordPress Plugin 
 
-Imagine you're in the car and listening to a great song on your favorite station egoFM. No pen to hand to record the song you just say 'Hey Siri, SOS egoFM.' and you'll receive the current song as a message directly to your mobile phone including the song title and its artist.
+Imagine you're in the car and listening to a great song on your favorite station egoFM. No pen to hand to record the song you just say 'Hey Siri, SOS egoFM.' and you'll receive the current song title and artist as a message directly to your mobile phone.
 
 The SaveOneSong WordPress Plugin allows you to extract the currently played song on 'egoFM' and automatically pushes it to different notification-channels if enabled. It also supports all other streams like
 
